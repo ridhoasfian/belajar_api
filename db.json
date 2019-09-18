@@ -1,7 +1,7 @@
 {
   "profile": [
-    { "id": 1, "title": "risdalitamauliya", "author": "ridhoasfian" },
-    { "id": 2, "title": "risda", "author": "risdalita" }
+    { "id": 1, "nama": "ridhoasfian", "telp": "081254922222" },
+    { "id": 2, "nama": "risda", "telp": "081254455367" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
